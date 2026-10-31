@@ -2,7 +2,7 @@
 
 Kortix is the open source ChatGPT Work alternative: run the agents, skills, memory and connectors on your own machine instead of renting them inside OpenAI's cloud. This repository is the working self-hosting guide — the `kortix.yaml`, the Docker Compose stack, and the step-by-step docs to bring the open source Kortix platform up on a laptop, a VPS or your own VPC.
 
-ChatGPT Work is OpenAI's agent for longer, multi-step work. It is capable, but the runtime stays under OpenAI's control and there is no self-host edition. Kortix is the open source AI Operating System: agents, skills, company memory and every connector live in one git repo you own, and each session boots its own isolated Linux machine. This repo shows you exactly how to run that system yourself.
+ChatGPT Work is OpenAI's agent for longer, multi-step work. It is capable, but the runtime stays under OpenAI's control and there is no self-host edition. Kortix is the open-source CompanyOS: agents, skills, company memory and every connector live in one git repo you own, and each session boots its own isolated Linux machine. This repo shows you exactly how to run that system yourself.
 
 - Full guide: [the open-source ChatGPT Work alternative](https://chatgptworkalternative.com/open-source-chatgpt-work-alternative.html)
 - Run it on your own box: [self-hosting Kortix](https://chatgptworkalternative.com/self-hosting.html)
