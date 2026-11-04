@@ -46,7 +46,7 @@ kortix ship
 
 ## Read the source
 
-Kortix is open source: [Kortix on GitHub](https://github.com/kortix-ai/suna). Docs are at [kortix.com/docs](https://kortix.com/docs).
+Kortix is open source: [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Docs are at [kortix.com/docs](https://kortix.com/docs).
 
 ## Open source
 
